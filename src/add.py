@@ -1,6 +1,6 @@
-def add(x:init, y:init=100)->init:
-	"""
-	Add two numbers together.
+def add(x:int, y:int=100) -> int:
+    """
+    Add two numbers together.
 
     Args:
         x (int): The first number.
